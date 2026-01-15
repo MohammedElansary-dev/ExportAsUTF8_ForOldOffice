@@ -43,7 +43,8 @@ Even though the file is correctly saved in UTF-8, double-clicking a CSV to open 
 
 **To view correctly:**
 Open Excel > Go to **Data** Tab > **Get External Data (From Text)** > Choose your file > Set File Origin to **65001: Unicode (UTF-8)**.
-or just open it with a text editor or using specific programs like [modern csv (free)][https://www.moderncsv.com/] or [CSView (free and open source)][https://kothar.net/csview] 
+or just open it with a text editor or using specific programs like [modern csv (free)](https://www.moderncsv.com/) or [CSView (free and open source)](https://kothar.net/csview)
+
 ---
 
 *Created to solve legacy software limitations.*
